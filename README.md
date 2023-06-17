@@ -144,9 +144,15 @@ top: 91px;
 background: url(logo.png);
 ```
 ## OUTPUT:
-![OUTPUT](./img1.png)
-![OUTPUT](./img2.png)
-![OUTPUT](./img3.png) 
+
+![img1](https://github.com/AkshayalakshmiVS/event-registration/assets/128115963/fac77f51-b10b-4443-92d4-5f7bb309295b)
+
+![img2](https://github.com/AkshayalakshmiVS/event-registration/assets/128115963/03e8844e-c05e-464b-a6bc-5d3ed82bb39c)
+
+![img3](https://github.com/AkshayalakshmiVS/event-registration/assets/128115963/1b9aca17-6033-4b6d-8b91-90eed0b47ceb)
+
+
+
 
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
